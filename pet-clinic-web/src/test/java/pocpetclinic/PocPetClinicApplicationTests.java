@@ -1,4 +1,4 @@
-package com.tomipoc.pocpetclinic;
+package pocpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
