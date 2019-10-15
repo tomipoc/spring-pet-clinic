@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.tomipoc</groupId>
     <artifactId>poc-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>poc-pet-clinic</name>
     <description>Poc Pet Clinic Project</description>
 
@@ -41,7 +41,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:tomipoc/spring-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/tomipoc/spring-pet-clinic.git</developerConnection>
         <tag>poc-pet-clinic-0.0.1</tag>
   </scm>
 
